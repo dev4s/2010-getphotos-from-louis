@@ -1,0 +1,57 @@
+﻿
+
+<table style="margin-left: 0px;" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+  <td class="contenttext" align="center">
+	
+	<script language="JavaScript1.1" type="text/javascript">
+	<!--
+ 
+	if ( 0 ) {
+	
+		AC_FL_RunContent(
+				'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0',
+				'width', '550',
+				'height', '550',
+				'src', '/lib/zoomifyViewer',
+				'pluginspage', 'http://www.adobe.com/go/getflashplayer_de',
+				'align', 'middle',
+				'id', 'theMovie',
+				'play', 'true',
+				'loop', 'true',
+				'bgcolor', '#ffffff',
+				'name', 'ZoomifyViewer',
+				'menu', 'false',
+				'flashvars', 'zoomifyToolbar=1&zoomifyImagePath=/shop/zoom/205979_240_05&zoomifySlider=1', 
+				'movie', '/lib/zoomifyViewer'
+				); //end AC code
+	}
+	else {
+	
+	  document.write('<img src="http://www.louis.de/shop/img450/205979_240_05.JPG" width="299" height="450">');
+	  if ( 0 ) {
+	
+	    document.write( '<p style="margin-top: 5px; margin-bottom: 0px;">Mit dem installierten kostenlosen <a href="" class="contentlink" target="_blank">Adobe Flash-Player</a> ab Version 6 bieten wir Ihnen zu diesem Artikel eine Zoomfunktion f&uuml;r diesen Artikel an');
+	  }
+	}
+	// -->
+	</script><img src="http://www.louis.de/shop/img450/205979_240_05.JPG" height="450" width="299">
+	<noscript>
+		<img src="/shop/img450/205979_240_05.JPG" width="299" height="450">
+	</noscript>
+  </td>
+</tr>
+<tr>
+  <td height="10"></td>
+</tr>
+<tr>
+  <td><div style="float: right;">
+      <div class="linkbutton button_grrd">
+        <a href="javascript:closewindow();">Schließen</a><img alt="" src="/images/button_grrd_end.gif">
+        </div>
+      </div>
+  </td>
+</tr>
+
+</tbody></table>
+

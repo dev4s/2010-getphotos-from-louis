@@ -1,0 +1,59 @@
+﻿<body>
+
+<table style="margin-left: 0px;" cellpadding="0" cellspacing="0" border="0">
+<tr>
+  <td class="contenttext" align="center">
+	
+	<script language="JavaScript1.1" type="text/javascript">
+	<!--
+ 
+	if ( 1 ) {
+	
+		AC_FL_RunContent(
+				'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0',
+				'width', '550',
+				'height', '550',
+				'src', '/lib/zoomifyViewer',
+				'pluginspage', 'http://www.adobe.com/go/getflashplayer_de',
+				'align', 'middle',
+				'id', 'theMovie',
+				'play', 'true',
+				'loop', 'true',
+				'bgcolor', '#ffffff',
+				'name', 'ZoomifyViewer',
+				'menu', 'false',
+				'flashvars', 'zoomifyToolbar=1&zoomifyImagePath=/shop/zoom/501258&zoomifySlider=1', 
+				'movie', '/lib/zoomifyViewer'
+				); //end AC code
+	}
+	else {
+	
+	  document.write('<img src="http://www.louis.de/shop/img450/501258.JPG" width="450" height="447">');
+	  if ( 1 ) {
+	
+	    document.write( '<p style="margin-top: 5px; margin-bottom: 0px;">If you have the free <a href="" class="contentlink" target="_blank">Adobe Flash player</a> version 6 or above on your computer, you can use the zoom function for this item');
+	  }
+	}
+	// -->
+	</script>
+	<noscript>
+		<img src="/shop/img450/501258.JPG" width="450" height="447">
+	</noscript>
+  </td>
+</tr>
+<tr>
+  <td height="10"></td>
+</tr>
+<tr>
+  <td><div style="float:right">
+      <div class="linkbutton button_grrd">
+        <a href="javascript:closewindow();" >Close</a><img alt="" src="/images/button_grrd_end.gif">
+        </div>
+      </div>
+  </td>
+</tr>
+
+</table>
+
+</body>
+</html>

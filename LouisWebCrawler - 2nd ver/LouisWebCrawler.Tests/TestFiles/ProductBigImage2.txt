@@ -1,0 +1,57 @@
+﻿
+
+<table style="margin-left: 0px;" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+  <td class="contenttext" align="center">
+	
+	<script language="JavaScript1.1" type="text/javascript">
+	<!--
+ 
+	if ( 1 ) {
+	
+		AC_FL_RunContent(
+				'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0',
+				'width', '550',
+				'height', '550',
+				'src', '/lib/zoomifyViewer',
+				'pluginspage', 'http://www.adobe.com/go/getflashplayer_de',
+				'align', 'middle',
+				'id', 'theMovie',
+				'play', 'true',
+				'loop', 'true',
+				'bgcolor', '#ffffff',
+				'name', 'ZoomifyViewer',
+				'menu', 'false',
+				'flashvars', 'zoomifyToolbar=1&zoomifyImagePath=/shop/zoom/20917542_360_FR_07&zoomifySlider=1', 
+				'movie', '/lib/zoomifyViewer'
+				); //end AC code
+	}
+	else {
+	
+	  document.write('<img src="http://www.louis.de/shop/img450/20917542_360_FR_07.JPG" width="450" height="329">');
+	  if ( 1 ) {
+	
+	    document.write( '<p style="margin-top: 5px; margin-bottom: 0px;">Mit dem installierten kostenlosen <a href="" class="contentlink" target="_blank">Adobe Flash-Player</a> ab Version 6 bieten wir Ihnen zu diesem Artikel eine Zoomfunktion f&uuml;r diesen Artikel an');
+	  }
+	}
+	// -->
+	</script><embed src="/lib/zoomifyViewer.swf" pluginspage="http://www.adobe.com/go/getflashplayer_de" play="true" loop="true" bgcolor="#ffffff" name="ZoomifyViewer" menu="false" flashvars="zoomifyToolbar=1&amp;zoomifyImagePath=/shop/zoom/20917542_360_FR_07&amp;zoomifySlider=1" type="application/x-shockwave-flash" align="middle" height="550" width="550"> 
+	<noscript>
+		<img src="/shop/img450/20917542_360_FR_07.JPG" width="450" height="329">
+	</noscript>
+  </td>
+</tr>
+<tr>
+  <td height="10"></td>
+</tr>
+<tr>
+  <td><div style="float: right;">
+      <div class="linkbutton button_grrd">
+        <a href="javascript:closewindow();">Schließen</a><img alt="" src="/images/button_grrd_end.gif">
+        </div>
+      </div>
+  </td>
+</tr>
+
+</tbody></table>
+

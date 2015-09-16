@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="Virtuemart.Store" Alias="Self" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.1" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="VirtuemartStoreContainer">
+          <EntitySet Name="jos_vm_product" EntityType="Virtuemart.Store.jos_vm_product" store:Type="Tables" Schema="tt_probny" />
+        </EntityContainer>
+        <EntityType Name="jos_vm_product">
+          <Key>
+            <PropertyRef Name="product_id" />
+          </Key>
+          <Property Name="attribute" Type="text" />
+          <Property Name="cdate" Type="int" />
+          <Property Name="child_options" Type="varchar" MaxLength="45" />
+          <Property Name="child_option_ids" Type="varchar" MaxLength="45" />
+          <Property Name="custom_attribute" Type="text" Nullable="false" />
+          <Property Name="mdate" Type="int" />
+          <Property Name="product_availability" Type="varchar" Nullable="false" MaxLength="56" />
+          <Property Name="product_available_date" Type="int" />
+          <Property Name="product_desc" Type="text" />
+          <Property Name="product_discount_id" Type="int" />
+          <Property Name="product_full_image" Type="varchar" MaxLength="255" />
+          <Property Name="product_height" Type="decimal" Scale="4" />
+          <Property Name="product_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="product_in_stock" Type="int" Nullable="false" />
+          <Property Name="product_length" Type="decimal" Scale="4" />
+          <Property Name="product_lwh_uom" Type="varchar" MaxLength="32" />
+          <Property Name="product_name" Type="varchar" MaxLength="256" />
+          <Property Name="product_order_levels" Type="varchar" MaxLength="45" />
+          <Property Name="product_packaging" Type="int" />
+          <Property Name="product_parent_id" Type="int" Nullable="false" />
+          <Property Name="product_publish" Type="char" MaxLength="1" />
+          <Property Name="product_sales" Type="int" Nullable="false" />
+          <Property Name="product_sku" Type="varchar" Nullable="false" MaxLength="64" />
+          <Property Name="product_special" Type="char" MaxLength="1" />
+          <Property Name="product_s_desc" Type="varchar" MaxLength="255" />
+          <Property Name="product_tax_id" Type="int" />
+          <Property Name="product_thumb_image" Type="varchar" MaxLength="255" />
+          <Property Name="product_unit" Type="varchar" MaxLength="32" />
+          <Property Name="product_url" Type="varchar" MaxLength="255" />
+          <Property Name="product_weight" Type="decimal" Scale="4" />
+          <Property Name="product_weight_uom" Type="varchar" MaxLength="32" />
+          <Property Name="product_width" Type="decimal" Scale="4" />
+          <Property Name="quantity_options" Type="varchar" MaxLength="45" />
+          <Property Name="ship_code_id" Type="int" />
+          <Property Name="vendor_id" Type="int" Nullable="false" />
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2008/09/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Virtuemart" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+        <EntityContainer Name="VirtuemartContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="jos_vm_product" EntityType="Virtuemart.jos_vm_product" />
+        </EntityContainer>
+        <EntityType Name="jos_vm_product">
+          <Key>
+            <PropertyRef Name="product_id" />
+          </Key>
+          <Property Type="String" Name="attribute" />
+          <Property Type="Int32" Name="cdate" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="child_options" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="child_option_ids" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="custom_attribute" Nullable="false" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Int32" Name="mdate" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="product_availability" Nullable="false" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Int32" Name="product_available_date" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="product_desc" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Int32" Name="product_discount_id" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="product_full_image" />
+          <Property Type="Decimal" Name="product_height" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Int32" Name="product_id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="Int32" Name="product_in_stock" Nullable="false" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Decimal" Name="product_length" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="product_lwh_uom" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="product_name" />
+          <Property Type="String" Name="product_order_levels" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Int32" Name="product_packaging" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Int32" Name="product_parent_id" Nullable="false" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="product_publish" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Int32" Name="product_sales" Nullable="false" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="product_sku" Nullable="false" />
+          <Property Type="String" Name="product_special" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="product_s_desc" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Int32" Name="product_tax_id" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="product_thumb_image" />
+          <Property Type="String" Name="product_unit" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="product_url" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Decimal" Name="product_weight" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="product_weight_uom" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Decimal" Name="product_width" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="String" Name="quantity_options" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Int32" Name="ship_code_id" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+          <Property Type="Int32" Name="vendor_id" Nullable="false" cg:GetterAccess="Private" cg:SetterAccess="Private" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs" Space="C-S">
+        <Alias Key="Model" Value="Virtuemart" />
+        <Alias Key="Target" Value="Virtuemart.Store" />
+        <EntityContainerMapping CdmEntityContainer="VirtuemartContainer" StorageEntityContainer="VirtuemartStoreContainer">
+          <EntitySetMapping Name="jos_vm_product">
+            <EntityTypeMapping TypeName="Virtuemart.jos_vm_product">
+              <MappingFragment StoreEntitySet="jos_vm_product">
+                <ScalarProperty Name="vendor_id" ColumnName="vendor_id" />
+                <ScalarProperty Name="ship_code_id" ColumnName="ship_code_id" />
+                <ScalarProperty Name="quantity_options" ColumnName="quantity_options" />
+                <ScalarProperty Name="product_width" ColumnName="product_width" />
+                <ScalarProperty Name="product_weight_uom" ColumnName="product_weight_uom" />
+                <ScalarProperty Name="product_weight" ColumnName="product_weight" />
+                <ScalarProperty Name="product_url" ColumnName="product_url" />
+                <ScalarProperty Name="product_unit" ColumnName="product_unit" />
+                <ScalarProperty Name="product_thumb_image" ColumnName="product_thumb_image" />
+                <ScalarProperty Name="product_tax_id" ColumnName="product_tax_id" />
+                <ScalarProperty Name="product_s_desc" ColumnName="product_s_desc" />
+                <ScalarProperty Name="product_special" ColumnName="product_special" />
+                <ScalarProperty Name="product_sku" ColumnName="product_sku" />
+                <ScalarProperty Name="product_sales" ColumnName="product_sales" />
+                <ScalarProperty Name="product_publish" ColumnName="product_publish" />
+                <ScalarProperty Name="product_parent_id" ColumnName="product_parent_id" />
+                <ScalarProperty Name="product_packaging" ColumnName="product_packaging" />
+                <ScalarProperty Name="product_order_levels" ColumnName="product_order_levels" />
+                <ScalarProperty Name="product_name" ColumnName="product_name" />
+                <ScalarProperty Name="product_lwh_uom" ColumnName="product_lwh_uom" />
+                <ScalarProperty Name="product_length" ColumnName="product_length" />
+                <ScalarProperty Name="product_in_stock" ColumnName="product_in_stock" />
+                <ScalarProperty Name="product_id" ColumnName="product_id" />
+                <ScalarProperty Name="product_height" ColumnName="product_height" />
+                <ScalarProperty Name="product_full_image" ColumnName="product_full_image" />
+                <ScalarProperty Name="product_discount_id" ColumnName="product_discount_id" />
+                <ScalarProperty Name="product_desc" ColumnName="product_desc" />
+                <ScalarProperty Name="product_available_date" ColumnName="product_available_date" />
+                <ScalarProperty Name="product_availability" ColumnName="product_availability" />
+                <ScalarProperty Name="mdate" ColumnName="mdate" />
+                <ScalarProperty Name="custom_attribute" ColumnName="custom_attribute" />
+                <ScalarProperty Name="child_option_ids" ColumnName="child_option_ids" />
+                <ScalarProperty Name="child_options" ColumnName="child_options" />
+                <ScalarProperty Name="cdate" ColumnName="cdate" />
+                <ScalarProperty Name="attribute" ColumnName="attribute" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram Name="Virtuemart" >
+        <EntityTypeShape EntityType="Virtuemart.jos_vm_product" Width="3.875" PointX="0.75" PointY="0.5" Height="7.7493294270833317" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

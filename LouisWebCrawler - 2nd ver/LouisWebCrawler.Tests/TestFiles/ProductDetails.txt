@@ -1,0 +1,1761 @@
+﻿
+<a name="top"></a>
+<table border="0" cellpadding="0" cellspacing="0" width="1000">
+<tbody><tr>
+	<td colspan="3">
+	
+<table style="height: 90px;" bgcolor="#e7101f" border="0" cellpadding="0" cellspacing="0" width="1000">
+<tbody><tr>
+	<td style="background-image: url(&quot;/images/topheader_gradient.gif&quot;);">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="30"></td>
+		<td valign="middle">
+			<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/"><img src="/images/topheader_logo.gif" alt="Louis - Europas Nr.1 für Motorrad &amp; Freizeit" border="0" height="70" width="124"></a>		</td>
+		<td width="35"></td>
+		<td>
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td height="65" width="40"></td>
+			<td width="480">
+				<p class="contentboldwhite" style="font-size: 16px; margin: 15px 0px 5px;"><nobr>Europas Nr.1 für Motorrad &amp; Freizeit</nobr></p>
+				<p class="contentboldyellow" style="margin: 5px 0px 10px;">
+
+				
+				24h-Bestelltelefon: 040-734 193 60
+								</p>
+
+			</td>
+			<td width="15"></td>
+			<td width="220">
+			<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=cart" rel="nofollow"><img src="/images/warenkorb.jpg" style="margin-top: 4px;" align="left" border="0"></a>
+<table style="border: 0px solid rgb(255, 255, 255);" border="0" cellpadding="0" cellspacing="5">
+<tbody><tr>
+	<td class="contentbold" colspan="2" style="color: rgb(255, 255, 255); font-size: 12px; border: 0px solid rgb(255, 255, 255);" align="center" valign="top">
+		»<a class="contentbold" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=cart" rel="nofollow" style="color: rgb(255, 255, 255); font-size: 12px;">Zum Warenkorb</a>
+	</td>
+</tr>
+<tr>
+	<td class="contenttext contentwhite" style="border: 0px solid rgb(255, 255, 255);" align="center">
+		<span id="cartnum">0</span> Produkte	</td>
+	<td class="contenttext contentwhite" style="border: 0px solid rgb(255, 255, 255);" align="center">
+		<span id="carttotal">0,00</span> €
+	</td>
+</tr>
+</tbody></table>
+
+
+			</td>
+			<td width="10"></td>
+			<td width="30"><table border="0" cellpadding="0" cellspacing="6">
+<tbody><tr>
+	<td>
+		<a href="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artnr_gr&amp;article_context=detail&amp;grwgr=195&amp;wgr=801&amp;list_total=31&amp;anzeige=0&amp;page=0&amp;artnr_gr=205979&amp;lang=de"><img src="/images/chooselang_de.jpg" style="margin-top: 5px;" border="0" height="19" width="32"></a>
+	</td>
+</tr>
+	<tr><td>
+		<a href="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artnr_gr&amp;article_context=detail&amp;grwgr=195&amp;wgr=801&amp;list_total=31&amp;anzeige=0&amp;page=0&amp;artnr_gr=205979&amp;lang=en"><img src="/images/chooselang_en.jpg" border="0" height="19" width="32"></a>
+	</td>
+</tr>
+</tbody></table>
+</td>
+			<td width="20"></td>
+		</tr>
+		<tr>
+			<td colspan="7" valign="bottom">
+<table border="0" cellpadding="0" cellspacing="0" width="750">
+<tbody><tr>
+	<td>
+				
+		<div class="topnav">
+		<!--[if IE 6]><a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/"><![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td class="left" style="background: url(&quot;/images/topnav_left.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="20"></td>
+			<td class="item" style="background: url(&quot;/images/topnav_main.gif&quot;) repeat scroll 0% 0% transparent;" align="center"><span style="white-space: nowrap;">&nbsp;<a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/">Home</a>&nbsp;</span></td>
+			<td class="iright" style="background: url(&quot;/images/topnav_intersect_right.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+		</tr>
+		</tbody></table>
+		<!--[if IE 6]></a><![endif]-->
+		</div>
+	</td>
+	<td>
+				
+		<div class="topnav">
+		<!--[if IE 6]><a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=shop"><![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td class="ileft" style="background: url(&quot;/images/topnav_intersect_left_on.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+			<td class="item" style="background: url(&quot;/images/topnav_main_on.gif&quot;) repeat scroll 0% 0% transparent;" align="center"><span style="white-space: nowrap;">&nbsp;<a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=shop">OnlineShop</a>&nbsp;</span></td>
+			<td class="iright" style="background: url(&quot;/images/topnav_intersect_right_on.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+		</tr>
+		</tbody></table>
+		<!--[if IE 6]></a><![endif]-->
+		</div>
+	</td>
+	<td>
+				
+		<div class="topnav">
+		<!--[if IE 6]><a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=bikedb"><![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td class="ileft" style="background: url(&quot;/images/topnav_intersect_left.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+			<td class="item" style="background: url(&quot;/images/topnav_main.gif&quot;) repeat scroll 0% 0% transparent;" align="center"><span style="white-space: nowrap;">&nbsp;<a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=bikedb">Bike-Datenbank</a>&nbsp;</span></td>
+			<td class="iright" style="background: url(&quot;/images/topnav_intersect_right.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+		</tr>
+		</tbody></table>
+		<!--[if IE 6]></a><![endif]-->
+		</div>
+	</td>
+	<td>
+				
+		<div class="topnav">
+		<!--[if IE 6]><a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=schraubertipp"><![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td class="ileft" style="background: url(&quot;/images/topnav_intersect_left.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+			<td class="item" style="background: url(&quot;/images/topnav_main.gif&quot;) repeat scroll 0% 0% transparent;" align="center"><span style="white-space: nowrap;">&nbsp;<a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=schraubertipp">Tipps &amp; Tricks</a>&nbsp;</span></td>
+			<td class="iright" style="background: url(&quot;/images/topnav_intersect_right.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+		</tr>
+		</tbody></table>
+		<!--[if IE 6]></a><![endif]-->
+		</div>
+	</td>
+	<td>
+				
+		<div class="topnav">
+		<!--[if IE 6]><a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=filialen"><![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td class="ileft" style="background: url(&quot;/images/topnav_intersect_left.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+			<td class="item" style="background: url(&quot;/images/topnav_main.gif&quot;) repeat scroll 0% 0% transparent;" align="center"><span style="white-space: nowrap;">&nbsp;<a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=filialen">Filialen</a>&nbsp;</span></td>
+			<td class="iright" style="background: url(&quot;/images/topnav_intersect_right.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+		</tr>
+		</tbody></table>
+		<!--[if IE 6]></a><![endif]-->
+		</div>
+	</td>
+	<td>
+				
+		<div class="topnav">
+		<!--[if IE 6]><a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=service"><![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td class="ileft" style="background: url(&quot;/images/topnav_intersect_left.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+			<td class="item" style="background: url(&quot;/images/topnav_main.gif&quot;) repeat scroll 0% 0% transparent;" align="center"><span style="white-space: nowrap;">&nbsp;<a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=service">Service</a>&nbsp;</span></td>
+			<td class="iright" style="background: url(&quot;/images/topnav_intersect_right.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+		</tr>
+		</tbody></table>
+		<!--[if IE 6]></a><![endif]-->
+		</div>
+	</td>
+	<td>
+				
+		<div class="topnav">
+		<!--[if IE 6]><a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=impressum"><![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td class="ileft" style="background: url(&quot;/images/topnav_intersect_left.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+			<td class="item" style="background: url(&quot;/images/topnav_main.gif&quot;) repeat scroll 0% 0% transparent;" align="center"><span style="white-space: nowrap;">&nbsp;<a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=impressum">Über uns</a>&nbsp;</span></td>
+			<td class="iright" style="background: url(&quot;/images/topnav_intersect_right.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+		</tr>
+		</tbody></table>
+		<!--[if IE 6]></a><![endif]-->
+		</div>
+	</td>
+	
+		
+	<td>
+				
+		<div class="topnav">
+		<!--[if IE 6]><a class="topnav" href="https://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=mylouis"><![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td class="ileft" style="background: url(&quot;/images/topnav_intersect_left.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+			<td class="item" style="background: url(&quot;/images/topnav_main.gif&quot;) repeat scroll 0% 0% transparent;" align="center"><span style="white-space: nowrap;">&nbsp;<a class="topnav" href="https://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=mylouis">MyLouis</a>&nbsp;</span></td>
+			<td class="iright" style="background: url(&quot;/images/topnav_intersect_right.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+		</tr>
+		</tbody></table>
+		<!--[if IE 6]></a><![endif]-->
+		</div>
+	</td>
+	
+	<td>
+				
+		<div class="topnav">
+		<!--[if IE 6]><a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=jobs"><![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td class="ileft" style="background: url(&quot;/images/topnav_intersect_left.gif&quot;) repeat scroll 0% 0% transparent;" height="22" width="2"></td>
+			<td class="item" style="background: url(&quot;/images/topnav_main.gif&quot;) repeat scroll 0% 0% transparent;" align="center"><span style="white-space: nowrap;">&nbsp;<a class="topnav" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=jobs">Jobs</a>&nbsp;</span></td>
+			<td class="right" style="background: url(&quot;/images/topnav_right.gif&quot;) repeat scroll 0% 0% transparent;" width="20"></td>
+		</tr>
+		</tbody></table>
+		<!--[if IE 6]></a><![endif]-->
+		</div>
+	</td>
+</tr>
+</tbody></table>
+</td>
+		</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td bgcolor="#ffffff">
+	<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td align="center" bgcolor="#7d8391" valign="top" width="190">
+	
+<div style="margin: 5px 0px 0px;"></div>
+<!-- Produktsuche -->
+<div style="width: 185px; overflow: hidden; border-left: 5px solid rgb(125, 131, 145); background: none repeat scroll 0% 0% rgb(216, 218, 222);">
+
+<form style="margin: 0px;" method="get" action="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=search" name="searchform">
+<input name="topic" value="search" type="hidden">
+<table border="0" cellpadding="0" cellspacing="5">
+<tbody><tr>
+	<td class="leftmenubold">Produktsuche<br><span class="contenttiny">nach Stichwort/Bestellnr.</span></td>
+</tr>
+<tr>
+	<td class="leftmenu">
+		<span class="leftmenu"><input size="12" maxlength="30" class="contenttext" style="width: 140px;" value="" name="searchterm" type="text"></span>
+		&nbsp;<input style="border: medium none;" src="/images/submit.gif" name="cmd" type="image">
+	</td>
+</tr>
+<tr>
+	<td class="leftmenubold">»<a class="leftmenubold" style="text-decoration: underline;" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=register">Produkte von A-Z</a></td>
+</tr>
+</tbody></table>
+</form>
+</div>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+document.forms['searchform'].elements['searchterm'].focus();
+// -->
+</script>
+
+
+
+<div style="width: 185px; height: 5px; overflow: hidden; border-left: 5px solid rgb(125, 131, 145); background: none repeat scroll 0% 0% rgb(216, 218, 222);"></div>
+
+
+
+<div style="margin: 0px;">
+	
+<table border="0" cellpadding="0" cellspacing="0" width="190">
+<tbody><tr>
+	<td width="5"></td>
+	<td width="185">
+		<table border="0" cellpadding="0" cellspacing="0" width="185">
+					
+			<tbody><tr>
+				<td colspan="4" bgcolor="#d8dade" height="1" width="184"></td>
+				<td rowspan="35" bgcolor="#d8dade" width="1"></td>
+			</tr>
+				
+			<tr>
+				<td bgcolor="#d8dade" width="30"><img src="/images/icon_rubrik_1.gif" alt="Bekleidung &amp; Helme" height="20" width="30"></td>
+				<td bgcolor="#f4f4f4" width="5"></td>
+				<td class="leftmenuboldred" bgcolor="#f4f4f4" width="142"><a class="leftmenuboldred" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=rubrik&amp;menu_rubrik=1">Bekleidung &amp; Helme</a></td>
+				<td class="tdgray" bgcolor="#f4f4f4" width="7">&nbsp;</td>
+			</tr>
+			<tr>
+				<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+			</tr>
+									
+			<tr>
+				<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+			</tr>
+			<tr>
+				<td class="leftmenured" colspan="4" bgcolor="#f4f4f4">&nbsp;<span style="color: rgb(244, 244, 244);">»</span><a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=195" class="leftmenured">Accessoires</a></td>
+			</tr>
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=170" class="leftmenu">Brillen</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=185" class="leftmenu">Caps/Tücher/Halswärmer</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=115" class="leftmenu">Freizeitbekleidung</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=180" class="leftmenu">Handschuhe</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=150" class="leftmenu">Helme &amp; Visiere</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=117" class="leftmenu">Kinderbekleidung</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=100" class="leftmenu">Lederbekleidung</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=130" class="leftmenu">Nierengurte</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=120" class="leftmenu">Protektoren</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=140" class="leftmenu">Regenbekleidung</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=190" class="leftmenu">Stiefel/Schuhe/Socken</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=175" class="leftmenu">Sturmhauben/U-Wäsche</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=105" class="leftmenu">T-Shirts</a></td>
+				</tr>
+					
+										
+				<tr>
+					<td colspan="4" bgcolor="#f4f4f4" height="3"></td>
+				</tr>
+				<tr>
+					<td class="leftmenu" colspan="4" bgcolor="#f4f4f4">&nbsp;»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;grwgr=110" class="leftmenu">Textilbekleidung</a></td>
+				</tr>
+					
+									
+				<tr><td colspan="4" bgcolor="#f4f4f4" height="20" width="184"></td></tr>
+				<tr>
+					<td colspan="4" bgcolor="#7d8391" height="1"></td>
+				</tr>
+						
+			<tr>
+				<td colspan="4" bgcolor="#f4f4f4" height="1" width="184"></td>
+				<td bgcolor="#f4f4f4" height="1" width="1"></td>
+			</tr>
+			<tr>
+				<td bgcolor="#d8dade" width="30"><img src="/images/icon_rubrik_2.gif" alt="Verschleißteile" height="20" width="30"></td>
+				<td bgcolor="#f4f4f4" width="5"></td>
+				<td class="leftmenubold" bgcolor="#f4f4f4" width="142"><a class="leftmenubold" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=rubrik&amp;menu_rubrik=2">Verschleißteile</a></td>
+				<td class="tdgray" align="center" valign="middle" width="7">»</td>
+			</tr>
+			<tr><td colspan="5" bgcolor="#7d8391" height="1" width="185"></td></tr>
+						
+			<tr>
+				<td colspan="4" bgcolor="#f4f4f4" height="1" width="184"></td>
+				<td bgcolor="#f4f4f4" height="1" width="1"></td>
+			</tr>
+			<tr>
+				<td bgcolor="#d8dade" width="30"><img src="/images/icon_rubrik_3.gif" alt="Pflege &amp; Wartung" height="20" width="30"></td>
+				<td bgcolor="#f4f4f4" width="5"></td>
+				<td class="leftmenubold" bgcolor="#f4f4f4" width="142"><a class="leftmenubold" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=rubrik&amp;menu_rubrik=3">Pflege &amp; Wartung</a></td>
+				<td class="tdgray" align="center" valign="middle" width="7">»</td>
+			</tr>
+			<tr><td colspan="5" bgcolor="#7d8391" height="1" width="185"></td></tr>
+						
+			<tr>
+				<td colspan="4" bgcolor="#f4f4f4" height="1" width="184"></td>
+				<td bgcolor="#f4f4f4" height="1" width="1"></td>
+			</tr>
+			<tr>
+				<td bgcolor="#d8dade" width="30"><img src="/images/icon_rubrik_4.gif" alt="Anbauteile" height="20" width="30"></td>
+				<td bgcolor="#f4f4f4" width="5"></td>
+				<td class="leftmenubold" bgcolor="#f4f4f4" width="142"><a class="leftmenubold" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=rubrik&amp;menu_rubrik=4">Anbauteile</a></td>
+				<td class="tdgray" align="center" valign="middle" width="7">»</td>
+			</tr>
+			<tr><td colspan="5" bgcolor="#7d8391" height="1" width="185"></td></tr>
+						
+			<tr>
+				<td colspan="4" bgcolor="#f4f4f4" height="1" width="184"></td>
+				<td bgcolor="#f4f4f4" height="1" width="1"></td>
+			</tr>
+			<tr>
+				<td bgcolor="#d8dade" width="30"><img src="/images/icon_rubrik_5.gif" alt="Zubehör &amp; Gepäck" height="20" width="30"></td>
+				<td bgcolor="#f4f4f4" width="5"></td>
+				<td class="leftmenubold" bgcolor="#f4f4f4" width="142"><a class="leftmenubold" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=rubrik&amp;menu_rubrik=5">Zubehör &amp; Gepäck</a></td>
+				<td class="tdgray" align="center" valign="middle" width="7">»</td>
+			</tr>
+			<tr><td colspan="5" bgcolor="#7d8391" height="1" width="185"></td></tr>
+						
+			<tr>
+				<td colspan="4" bgcolor="#f4f4f4" height="1" width="184"></td>
+				<td bgcolor="#f4f4f4" height="1" width="1"></td>
+			</tr>
+			<tr>
+				<td bgcolor="#d8dade" width="30"><img src="/images/icon_rubrik_6.gif" alt="Camping &amp; Reisen" height="20" width="30"></td>
+				<td bgcolor="#f4f4f4" width="5"></td>
+				<td class="leftmenubold" bgcolor="#f4f4f4" width="142"><a class="leftmenubold" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=rubrik&amp;menu_rubrik=6">Camping &amp; Reisen</a></td>
+				<td class="tdgray" align="center" valign="middle" width="7">»</td>
+			</tr>
+			<tr><td colspan="5" bgcolor="#7d8391" height="1" width="185"></td></tr>
+						
+			<tr>
+				<td colspan="4" bgcolor="#f4f4f4" height="1" width="184"></td>
+				<td bgcolor="#f4f4f4" height="1" width="1"></td>
+			</tr>
+			<tr>
+				<td bgcolor="#d8dade" width="30"><img src="/images/icon_rubrik_7.gif" alt="Geschenke &amp; Co." height="20" width="30"></td>
+				<td bgcolor="#f4f4f4" width="5"></td>
+				<td class="leftmenubold" bgcolor="#f4f4f4" width="142"><a class="leftmenubold" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=rubrik&amp;menu_rubrik=7">Geschenke &amp; Co.</a></td>
+				<td class="tdgray" align="center" valign="middle" width="7">»</td>
+			</tr>
+			<tr><td colspan="5" bgcolor="#7d8391" height="1" width="185"></td></tr>
+					</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+<div style="width: 185px; height: 10px; overflow: hidden; border-left: 5px solid rgb(125, 131, 145); background: none repeat scroll 0% 0% rgb(216, 218, 222);"></div>
+
+
+<!-- Eingabe von Bestellnummern -->
+<table border="0" cellpadding="0" cellspacing="0" width="190">
+<tbody><tr>
+	<td height="5" width="5"><div style="width: 5px; height: 5px;"></div></td>
+	<td bgcolor="#d8dade" width="185">
+		<table border="0" cellpadding="0" cellspacing="0" width="185">
+				
+		<tbody><tr>
+			<td colspan="3" bgcolor="#f4f4f4" height="1" width="184"></td>
+			<td bgcolor="#f4f4f4" height="1" width="1"></td>
+		</tr>
+		<tr>
+			<td colspan="3" bgcolor="#f4f4f4" height="3" width="184"></td>
+			<td rowspan="3" bgcolor="#7d8391" width="1"></td>
+		</tr>
+		<tr>
+			<td bgcolor="#f4f4f4" width="5"></td>
+			<td class="leftmenubold" bgcolor="#f4f4f4" width="172"><a class="leftmenubold" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=sheet" rel="nofollow">Eingabe von Bestellnr.</a></td>
+			<td class="tdgray" align="center" valign="middle" width="7">»</td>
+		</tr>
+		<tr><td colspan="3" bgcolor="#f4f4f4" height="3" width="184"></td></tr>
+		<tr><td colspan="4" bgcolor="#7d8391" height="1" width="185"></td></tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+<!-- Berater -->
+<table border="0" cellpadding="0" cellspacing="0" width="190">
+<tbody><tr>
+	<td height="5" width="5"></td>
+	<td bgcolor="#d8dade" width="185">
+		<table border="0" cellpadding="0" cellspacing="0" width="185">
+				
+		<tbody><tr>
+			<td colspan="3" bgcolor="#f4f4f4" height="1" width="184"></td>
+			<td bgcolor="#f4f4f4" height="1" width="1"></td>
+		</tr>
+		<tr>
+			<td colspan="3" bgcolor="#f4f4f4" height="3" width="184"></td>
+			<td rowspan="3" bgcolor="#7d8391" width="1"></td>
+		</tr>
+		<tr>
+			<td bgcolor="#f4f4f4" width="5"></td>
+			<td class="leftmenubold" bgcolor="#f4f4f4" width="172"><a class="leftmenubold" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=helmberater">Helmberater</a></td>
+			<td class="tdgray" align="center" valign="middle" width="7">»</td>
+		</tr>
+		<tr><td colspan="3" bgcolor="#f4f4f4" height="3" width="184"></td></tr>
+		<tr><td colspan="4" bgcolor="#7d8391" height="1" width="185"></td></tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>
+
+<div style="width: 185px; height: 10px; overflow: hidden; border-left: 5px solid rgb(125, 131, 145); background: none repeat scroll 0% 0% rgb(216, 218, 222);"></div>
+
+
+<!-- Weitere Markenshops -->
+
+<div style="width: 185px; overflow: hidden; border-left: 5px solid rgb(125, 131, 145); background: none repeat scroll 0% 0% rgb(216, 218, 222); text-align: left;">
+		
+	<form style="margin: 0px;" name="brand_select" action="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php" method="get">
+	<input name="topic" value="brand" type="hidden">
+	<table border="0" cellpadding="0" cellspacing="5">
+	<tbody><tr>
+		<td class="leftmenubold" colspan="2">Louis Markenshops</td>
+	</tr>
+	<tr>
+		<td class="leftmenu">
+		<select class="contenttext" name="brand_id" onchange="submit();">
+				
+		<option value="0" selected="selected">Bitte wählen</option>
+						
+		<option value="140">ABUS</option>
+				
+		<option value="63">Airoh</option>
+				
+		<option value="3">AJS</option>
+				
+		<option value="507">alpinestars</option>
+				
+		<option value="94">Bodystyle</option>
+				
+		<option value="13">BOS Auspuff</option>
+				
+		<option value="14">BÜSE</option>
+				
+		<option value="49">Caberg</option>
+				
+		<option value="31">Cafe-Racer</option>
+				
+		<option value="460">Cardo</option>
+				
+		<option value="17">Castrol</option>
+				
+		<option value="493">Cellular-line</option>
+				
+		<option value="32">Cycle Spirit</option>
+				
+		<option value="53">Daytona Stiefel</option>
+				
+		<option value="42">Delo</option>
+				
+		<option value="425">Fastlane</option>
+				
+		<option value="89">Fehling</option>
+				
+		<option value="262">FOLIA TEC</option>
+				
+		<option value="424">Garmin</option>
+				
+		<option value="476">Gilles Tooling</option>
+				
+		<option value="81">Givi</option>
+				
+		<option value="492">GoPro</option>
+				
+		<option value="381">GrandCanyon</option>
+				
+		<option value="23">Held</option>
+				
+		<option value="84">Hepco &amp; Becker</option>
+				
+		<option value="30">Highway 1</option>
+				
+		<option value="12">Hurric</option>
+				
+		<option value="153">KELLERMANN</option>
+				
+		<option value="92">LSL</option>
+				
+		<option value="109">Lucas</option>
+				
+		<option value="37">Madhead</option>
+				
+		<option value="488">Marushin</option>
+				
+		<option value="422">Midland</option>
+				
+		<option value="79">Moto-detail</option>
+				
+		<option value="85">MRA</option>
+				
+		<option value="51">MTR</option>
+				
+		<option value="119">NGK</option>
+				
+		<option value="56">Nolan</option>
+				
+		<option value="77">Nordisk</option>
+				
+		<option value="412">Ortlieb</option>
+				
+		<option value="35">Outdoor</option>
+				
+		<option value="33">Probiker</option>
+				
+		<option value="40">PROCYCLE</option>
+				
+		<option value="207">PUIG</option>
+				
+		<option value="432">Rothewald</option>
+				
+		<option value="88">Rukka</option>
+				
+		<option value="10">S100</option>
+				
+		<option value="142">SAITO</option>
+				
+		<option value="29">Schuberth Helme</option>
+				
+		<option value="423">Scorpion</option>
+				
+		<option value="113">Scottoiler</option>
+				
+		<option value="130">Shark</option>
+				
+		<option value="303">Shark Auspuff</option>
+				
+		<option value="58">Shoei</option>
+				
+		<option value="52">SIDI</option>
+				
+		<option value="36">Streetfighter</option>
+				
+		<option value="349">Super Shield</option>
+				
+		<option value="225">SW-Motech</option>
+				
+		<option value="383">TOMTOM</option>
+				
+		<option value="50">Uvex</option>
+				
+		<option value="34">Vanucci</option>
+				
+		<option value="480">walther</option>
+				
+		<option value="515">Wera</option>
+				
+		<option value="57">X-lite</option>
+				</select>
+		</td>
+		<td><input style="border: medium none;" src="/images/submit.gif" name="cmd" type="image"></td>
+	</tr>
+	</tbody></table>
+	</form>
+</div>
+
+<div style="width: 185px; height: 15px; overflow: hidden; border-left: 5px solid rgb(125, 131, 145); background: none repeat scroll 0% 0% rgb(216, 218, 222);"></div>
+
+
+</div>
+
+<div style="width: 185px; height: 10px; overflow: hidden; border-left: 5px solid rgb(125, 131, 145); background: none repeat scroll 0% 0% rgb(216, 218, 222);"></div>
+
+
+<!-- Service Box -->
+<div style="margin: 15px 0px 0px;">
+	
+<div style="width: 180px; background: none repeat scroll 0% 0% rgb(216, 218, 222);">
+	<div style="padding: 3px 5px 4px; text-align: center; background-image: url(&quot;/images/dashed_line_dark.gif&quot;); background-position: center bottom; background-repeat: repeat-x;" class="contentbold">Service-Box</div>
+	<div class="contenttext" style="padding: 5px 5px 10px 15px; text-align: left;">
+		
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=foreign" rel="nofollow">Foreign customers</a>
+	
+		
+	<br>
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=geschenkkarten">Geschenk-Gutscheine</a>
+	
+		
+	<br>
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=katalog_gewinn">Gewinnspiel</a>
+	
+		
+	<br>
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=katalog">Katalog</a>
+	
+		<br>
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=kontakt" rel="nofollow">Kontakt</a>
+	
+		<br>
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=funcard">LouisFunCard</a>
+	
+		<br>
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=mastercard">Louis MasterCard</a>
+		
+		<br>
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=materiallexikon">Materiallexikon</a>
+	
+		<br>
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=newsletter">Newsletter</a>
+		
+			<br>
+		<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=ratenkauf">Ratenkauf</a>
+		
+			<br>
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=agb#hinweisverpackv" rel="nofollow">Umwelt/Entsorgung</a>
+	
+		<br>
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=versandkosten" rel="nofollow">Versandkosten</a>
+	
+		<br>
+	<a class="teasertext" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=zahlung" rel="nofollow">Zahlungsarten</a>
+	</div>
+</div>
+
+</div>
+
+<div style="margin: 15px 0px;">
+	
+<table border="0" cellpadding="0" cellspacing="0" width="180">
+<tbody><tr>
+	<td class="contentwhite" align="left">
+		<span class="contentboldyellow">Einkaufen ohne Risiko</span>
+		<p style="margin-top: 5px; margin-bottom: 0px;">
+			
+		</p><p style="margin-top: 5px; margin-bottom: 0px;">
+		<img src="/images/dot_white.gif" alt="" border="0" height="5" width="3"> <a class="contentwhite" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/auf_rechnung.php" target="_blank" onclick="aufrechnung=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/auf_rechnung.php', 'aufrechnung', 'width=430,height=290,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); aufrechnung.focus(); return false;" rel="nofollow">Sicheres Bezahlen</a>
+
+			
+		</p><p style="margin-top: 5px; margin-bottom: 0px;">
+		<img src="/images/dot_white.gif" alt="" border="0" height="5" width="3"> <a class="contentwhite" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/gzg.php" target="_blank" onclick="gzg=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/gzg.php', 'gzg', 'width=430,height=440,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); gzg.focus(); return false;" rel="nofollow">Geld-zurück-Garantie</a>
+
+			
+		</p><p style="margin-top: 5px; margin-bottom: 0px;">
+		<img src="/images/dot_white.gif" alt="" border="0" height="5" width="3"> <a class="contentwhite" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/retour.php" target="_blank" onclick="retour=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/retour.php', 'retour', 'width=430,height=330,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); retour.focus(); return false;" rel="nofollow">Einfache Rücksendung</a>
+			
+		</p><p style="margin-top: 5px; margin-bottom: 0px;">
+		<img src="/images/dot_white.gif" alt="" border="0" height="5" width="3"> <a class="contentwhite" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/ssl_info.php" target="_blank" onclick="sslinfo=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/ssl_info.php', 'sslinfo', 'width=430,height=430,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); sslinfo.focus(); return false;" rel="nofollow"><span class="contentwhite">Verschlüsselte<br>&nbsp;&nbsp;Datenübertragung</span></a>
+
+	</p></td>
+</tr>
+</tbody></table>
+
+</div>
+<div style="margin: 15px 0px;">
+						<p style="margin-top: 25px; margin-bottom: 0px;" align="center">
+		<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/redirection.php?url=http%3A%2F%2Fwww.shopinfo.net%2Fzertifizierte-shops%2Fzertifikat%2Findex.html%3Fmemberkey%3DBVH%26shopurl%3Dwww.louis.de" target="_blank" rel="nofollow"><img src="/teaser/images/ehi_left.gif" alt="Geprüfter Online-Shop" border="0" height="59" width="140"></a>
+		</p>
+
+		<p style="margin-top: 15px; margin-bottom: 0px;" align="center">
+						<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=topshop" rel="nofollow"><img src="/teaser/images/topshop_left.gif" alt="TopShop" border="0" height="59" width="140"></a>
+		</p>
+
+</div>
+	</td>
+	<td valign="top" width="810"><table border="0" cellpadding="0" cellspacing="0"> 
+		<tbody><tr><td colspan="2" height="16"></td></tr>
+		<tr><td width="15"></td>
+			<td><table border="0" cellpadding="0" cellspacing="0" width="795">
+<tbody><tr>
+	<td>
+	<table border="0" cellpadding="3" cellspacing="0" width="795">
+	<tbody><tr>
+		<td class="contentheader"><h1 class="contentheader">CYCLE SPIRIT TEXTILLATZ</h1></td>
+		<td class="contentbold" align="right">Katalogseite: 27</td>
+	</tr>
+	</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td background="/images/dashed_line.gif" height="1"></td>
+</tr>
+	<tr>
+	<td height="8"></td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td class="contenttext">
+		»<a class="contentlink" href="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=wgr&amp;article_context=list&amp;page=0&amp;grwgr=195&amp;wgr=801&amp;anzeige=0&amp;motorrad=0&amp;hersteller=0&amp;typ_id=">Zurück zur Liste</a>		</td>
+		<td class="contenttext" align="right">&nbsp;&nbsp;&nbsp;Produkt&nbsp;&nbsp;&nbsp;<a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artnr_gr&amp;grwgr=195&amp;wgr=801&amp;origin=&amp;page=0&amp;typ_id=&amp;artnr_gr=20549006">Nächstes</a>&nbsp;<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artnr_gr&amp;grwgr=195&amp;wgr=801&amp;origin=&amp;page=0&amp;typ_id=&amp;artnr_gr=20549006"><img src="/images/turn_next.gif" alt="Nächstes" style="vertical-align: -3px;" border="0"></a></td>	</tr>
+	</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td height="8"></td>
+</tr>
+<tr>
+	<td background="/images/dashed_line.gif" height="1"></td>
+</tr>
+	
+<tr>
+	<td height="20"></td>
+</tr>
+
+<tr>
+	<td valign="top">
+		<table border="0" cellpadding="0" cellspacing="0" width="795">
+		<tbody><tr>
+			<td valign="top">
+				<table border="0" cellpadding="0" cellspacing="0">
+							<script language="JavaScript" type="text/javascript">
+				<!--
+					produktbildbig=new Image();
+					produktbildbig.src='http://www.louis.de/shop/img250/205979_240_05.JPG';
+				// -->
+				</script>
+				<tbody><tr>
+					<td class="contenttext" align="left" valign="top" width="300">
+
+						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody><tr>
+							<td colspan="2" align="center" height="250" valign="center"><a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/shop_article_big.php?IMG=205979_240_05&amp;TITLE=205979" target="picture" onclick="win=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/shop_article_big.php?IMG=205979_240_05&amp;TITLE=205979','picture','width=582,height=600,location=no,resizable=yes'); win.focus(); return 1;" rel="nofollow"><img id="produktbild" src="http://www.louis.de/shop/img250/205979_240_05.JPG" alt="CYCLE SPIRIT TEXTILLATZ" border="0" height="250" width="166"></a></td>
+						</tr>
+						<tr>
+							<td colspan="2" height="5"></td>
+						</tr>
+						<tr>
+							<td class="contenttext" id="produktbildfarbtext" valign="top" width="210">
+								Schwarz															</td>
+							<td class="contenttext" align="left" valign="top" width="90">
+								<script type="text/javascript">
+									var produktbildbigfarbtext = 'Schwarz';
+								</script>
+																<nobr><a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/shop_article_big.php?IMG=205979_240_05&amp;TITLE=205979" target="picture" onclick="win=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/shop_article_big.php?IMG=205979_240_05&amp;TITLE=205979','picture','width=582,height=600,location=no,resizable=yes'); win.focus(); return 1;" rel="nofollow"><img src="/images/icon_lupe.gif" alt="vergrößern" align="abscenter" border="0" height="15" width="15"></a> <a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/shop_article_big.php?IMG=205979_240_05&amp;TITLE=205979" target="picture" onclick="win=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/shop_article_big.php?IMG=205979_240_05&amp;TITLE=205979','picture','width=582,height=600,location=no,resizable=yes'); win.focus(); return 1;" rel="nofollow">vergrößern</a></nobr>
+								
+															</td>
+						</tr>
+						</tbody></table>
+									</td>
+				</tr>
+				
+				<tr>
+						<td height="15"></td>
+				</tr>
+				<tr>
+					<td class="contentbold" valign="top">
+
+				<!-- thumbnails -->
+
+					<p style="margin-top: 5px; margin-bottom: 0px;">
+					</p><table bgcolor="#f4f4f4" border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tbody><tr>
+						<td colspan="8">
+						<table border="0" cellpadding="3" cellspacing="0">
+						<tbody><tr>
+							<td><img src="/images/icon_abbildungen.gif" alt="" height="16" width="16"></td>
+							<td class="contentbold">Weitere Abbildungen</td>
+						</tr>
+						</tbody></table>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="8" background="/images/dashed_line.gif" height="1"></td>
+					</tr>
+					<tr>
+						<td colspan="8" height="10"></td>
+					</tr>
+					<tr>
+					
+						<td width="10"></td>
+						<td class="contenttext" valign="top">
+						
+								<script language="JavaScript" type="text/javascript">
+								<!--
+									produktthumb_0=new Image();
+									produktthumb_0.src='http://www.louis.de/shop/img250/205979_240_GEL_08.JPG';
+								// -->
+								</script>
+									<a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/shop_article_big.php?IMG=205979_240_GEL_08.JPG&amp;zusatz=1&amp;TITLE=205979" target="picture" onmouseover="imgchange('produktbild', produktthumb_0);textchange('produktbildfarbtext','');" onmouseout="imgchange('produktbild', produktbildbig);textchange('produktbildfarbtext',produktbildbigfarbtext);" onclick="win=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/shop_article_big.php?IMG=205979_240_GEL_08.JPG&amp;zusatz=1&amp;TITLE=205979','picture','width=582,height=600,location=no,resizeable=yes'); win.focus(); return 1;" rel="nofollow"><img src="http://www.louis.de/shop/img60/205979_240_GEL_08.JPG" alt="CYCLE SPIRIT TEXTILLATZ" border="0"></a>
+						</td>
+
+							
+					</tr>
+					
+					<tr>
+						<td colspan="8" height="5"></td>
+					</tr>
+					<tr>
+						<td colspan="8" background="/images/dashed_line.gif" height="1"></td>
+					</tr>
+					</tbody></table>
+					</td>
+				</tr>
+								</tbody></table>
+			</td>
+			<td width="40"></td>
+			<!-- Beschreibung -->
+			<td valign="top">
+				<table border="0" cellpadding="0" cellspacing="0" width="455">
+				<tbody><tr>
+					<td class="contenttext" valign="top">
+					<table border="0" cellpadding="0" cellspacing="0" width="455">
+					<tbody><tr>
+						<td valign="top" width="110">
+						<!-- Herstellerlogo -->
+											<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/logotext.php?TYPE=herst&amp;ID=32" target="_blank" onclick="hersttext=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/logotext.php?TYPE=herst&amp;ID=32', 'hersttext', 'width=450,height=380,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no'); hersttext.focus(); return false;" rel="nofollow"><img src="/shop/hersteller/32.gif" alt="" border="0" height="50" width="61"></a>
+											</td>
+						<td align="left" width="330">
+						<!-- weitere Logos -->
+												<div style="text-align: center; width: 75px; height: 50px; margin: 0px 5px 5px 0px; float: left;"><a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/logotext.php?TYPE=logo&amp;IMG=V-Reissverschluss.gif" target="_blank" onclick="logotext=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/logotext.php?TYPE=logo&amp;IMG=V-Reissverschluss.gif', 'logotext', 'width=450,height=380,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no'); logotext.focus(); return false;" rel="nofollow"><img src="/shop/zusatz/log/V-Reissverschluss.gif" alt="" border="0" height="50" width="32"></a>&nbsp;</div>
+												</td>
+					</tr>
+					</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td height="20"></td>
+				</tr>
+				<tr>
+					<td class="contenttext" valign="top">
+					Cycle Spirit® C204S Textillatz<br><ul class="ulatext"><li>Außenmaterial: Textilmix aus 500D Elastikgewebe (100% Polyamid) und 450D Spezialgewebe (100% Polyester)</li><li>Innenfutter, 100% Polyester</li><li>Textilstretch-Einsätze sorgen für mehr Tragekomfort</li><li>längenverstellbare Träger</li><li>rundum Verbindungsreißverschluss</li><li>2 Außentaschen</li><li>nur in Bauchgrößen lieferbar</li></ul><p class="patext">Bitte bestellen Sie den Latz in der gleichen Größe wie die Hose</p>					</td>
+				</tr>
+				<tr>
+					<td height="15"></td>
+				</tr>
+				
+				
+				<!-- Zusatzinfos -->
+				<tr>
+					<td class="contenttext">
+					<table bgcolor="#f4f4f4" border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tbody><tr>
+						<td colspan="3" class="contentbold" style="padding: 3px;">
+							Weitere Produkt-Infos						</td>
+					</tr>
+					<tr>
+						<td colspan="3">
+							<table bgcolor="#f4f4f4" border="0" cellpadding="0" cellspacing="0" width="100%">
+								<tbody><tr>
+									<td background="/images/dashed_line.gif" height="1"></td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+
+					<!-- Produktbewertungen -->
+					
+					<tr>
+						<td class="contenttext" colspan="3" style="padding: 5px;">
+
+						<div style="border: 1px solid rgb(125, 131, 145); background-color: rgb(255, 255, 255); margin: 5px 0px 0px; padding: 5px;" class="contenttext">
+														<div style="padding: 3px;">
+				                	<span class="contentbold" style="position: relative; top: -3px; left: 0pt;">Durchschnittliche Kundenbewertung:</span>&nbsp;<span title="Durchschnittlich 5 Sterne von insgesamt 1 Kunden">
+							<img alt="*" src="/images/star_16_100_bgwh.gif" border="0">
+<img alt="*" src="/images/star_16_100_bgwh.gif" border="0">
+<img alt="*" src="/images/star_16_100_bgwh.gif" border="0">
+<img alt="*" src="/images/star_16_100_bgwh.gif" border="0">
+<img alt="*" src="/images/star_16_100_bgwh.gif" border="0">
+
+	    			            	</span>
+	    			            </div>
+							
+	    			            <div style="padding: 3px;">
+	    			            									»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artbewert&amp;artbewert=liste&amp;artnr_gr=205979" class="contentlink" rel="nofollow">Kundenbewertungen lesen (Insgesamt 1)</a>
+	    			            </div>
+	    			            <div style="padding: 3px;">
+	    			            										»<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artbewert&amp;artbewert=write&amp;artnr_gr=205979" class="contentlink" rel="nofollow">Neue Bewertung schreiben</a>
+	    			            </div>
+							
+						</div>
+
+						</td>
+					</tr>
+					<tr>
+						<td colspan="3" height="5"></td>
+					</tr>
+						
+					<!-- Produkteigenschaften anzeigen/vergleichen -->
+					
+					<!-- Weitere Artikelinfo -->
+					
+					<tr>
+						<td colspan="3">
+							<table bgcolor="#f4f4f4" border="0" cellpadding="0" cellspacing="0" width="100%">
+								<tbody><tr>
+									<td background="/images/dashed_line.gif" height="1"></td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+					<tr>
+						<td class="contenttext" colspan="2">
+							<table border="0">
+								<tbody><tr>
+																			<td style="padding: 2px; text-align: center;">
+											<table>
+												<tbody><tr>
+													<td>
+													<a href="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=fc_leistungen#leistungsueberblick"><img src="/images/funcardpuntke_s.jpg" border="0"></a>
+													</td>
+													<td style="padding: 5px 0px 0px;" align="left" valign="top">
+													min. <b>87</b><br>
+													<a class="contentlink" href="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=fc_leistungen#leistungsueberblick"><b>FunCard-Punkte</b></a>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+																		</tr>
+							</tbody></table>
+						</td>
+						<td width="5"></td>
+					</tr>
+					<tr>
+						<td colspan="3">
+							<table bgcolor="#f4f4f4" border="0" cellpadding="0" cellspacing="0" width="100%">
+								<tbody><tr>
+									<td background="/images/dashed_line.gif" height="1"></td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+
+
+					</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td height="15"></td>
+				</tr>
+
+				
+				</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+	<a name="artikelliste"></a>
+	</td>
+</tr>
+
+
+<tr>
+	<td height="15"></td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+			
+	</tr>
+	</tbody></table>
+
+	</td>
+</tr>
+<!-- Artikeltabelle -->
+<tr>
+	<td height="15"></td>
+</tr>
+<tr>
+	<td background="/images/dashed_line.gif" height="1"></td>
+</tr>
+<tr>
+	<td bgcolor="#f4f4f4" height="5"></td>
+</tr>
+
+<tr>
+	<td class="contentbold" bgcolor="#f4f4f4">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td width="20"></td>
+			<td class="contentbold">Aktuelle Kalenderwoche: 34</td>
+						<td class="contentbold" align="right">Stand: 23.08.2010, 17:27 Uhr</td>
+			
+			<td width="20"></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+<tr>
+	<td bgcolor="#f4f4f4" height="5"></td>
+</tr>
+<tr>
+	<td background="/images/dashed_line.gif" height="1"></td>
+</tr>
+<tr>
+	<td bgcolor="#f4f4f4" height="5"></td>
+</tr>
+
+<tr>
+	<td bgcolor="#f4f4f4">
+		<table border="0" cellpadding="3" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td width="11"></td>
+			<td class="contentbold" valign="top">Lieferbarkeit:</td>
+
+			<td valign="top"><img src="/images/motgruen.gif" alt="Sofort" height="19" width="22"></td>
+			<td class="contenttext" valign="top">Sofort lieferbar</td>
+
+			<td valign="top"><img src="/images/motorange.gif" alt="ab KW" height="19" width="22"></td>
+			<td class="contenttext" valign="top">
+				Lieferbarkeit ab angezeigter Kalenderwoche. Nachlieferung in Deutschland ab Wert € 10,00.
+			</td>
+
+			<td valign="top"><img src="/images/motblau.gif" height="19" width="22"></td>
+			<td class="contenttext" valign="top">Keine Lagerware, wird für Sie bestellt, Lieferzeit mind. 14 Tage</td>
+
+			<td width="11"></td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+
+<tr>
+	<td bgcolor="#f4f4f4" height="10"></td>
+</tr>
+
+<tr>
+	<td bgcolor="#f4f4f4">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td valign="top">
+				<table bgcolor="#7d8391" border="0" cellpadding="5" cellspacing="1" width="100%">
+				<tbody><tr bgcolor="#7d8391">
+					<td class="contentboldwhite">Bestellnr.</td>
+					<td class="contentboldwhite">Produktbezeichnung</td>
+															<td class="contentboldwhite">Farbe					</td>
+					<td class="contentboldwhite">Größe					</td>
+					
+					<td class="contentboldwhite">Lieferbar</td>
+					
+					<td class="contentboldwhite">Preis&nbsp;in&nbsp;€</td>
+					
+					<td class="contentboldwhite" align="center">
+						<nobr>Anzahl in</nobr><br><nobr>den Warenkorb</nobr>
+						
+					</td>
+
+
+				</tr>
+
+								<tr bgcolor="#d8dade">
+					<td class="contentboldwhite">&nbsp;</td>
+					<td class="contentboldwhite">&nbsp;</td><td class="contentboldwhite">&nbsp;</td><td class="contentboldwhite">
+											<div class="contentboldwhite" style="position: relative;">
+											<form action="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php#artikelliste" name="form_groesse" method="POST"><input name="topic" value="artnr_gr" type="hidden"><input name="article_context" value="detail" type="hidden"><input name="artnr_gr" value="205979" type="hidden"><input name="artnr" value="" type="hidden"><input name="grwgr" value="195" type="hidden"><input name="wgr" value="801" type="hidden"><input name="anzeige" value="0" type="hidden"><input name="mottype" value="0" type="hidden"><input name="herst_bez" value="" type="hidden"><input name="typ_id" value="" type="hidden"><input name="origin" value="" type="hidden">
+												<div style="position: absolute; z-index: 2; top: -2px;" id="auswahl_groesse">
+												  <select name="groesse_auswahl" size="1" class="contenttext" onchange="document.forms.form_groesse.submit();" style="width: 100%;">
+												  	<option value="">Alle</option><option value="25">25</option>
+										<option value="26">26</option>
+										<option value="27">27</option>
+										<option value="28">28</option>
+										<option value="29">29</option>
+										<option value="30">30</option>
+										<option value="31">31</option>
+										<option value="32">32</option>
+										  </select>
+							  					</div>
+											 </form>
+												&nbsp;
+						  					</div>
+										</td><td class="contentboldwhite">&nbsp;</td><td class="contentboldwhite">&nbsp;</td><td class="contentboldwhite">&nbsp;</td></tr>					<tr>
+						<td class="tdwhite" valign="top">20597925</td>
+												<td class="tdwhite" valign="top"><nobr>CYCLE SPIRIT TEXTILLATZ<br>GR.25 SCHWARZ</nobr><input name="t#20597925v1" value="CYCLE SPIRIT TEXTILLATZ GR.25 SCHWARZ" type="hidden"><input name="g#20597925v1" value="801" type="hidden"><input name="m#20597925v1" value="19.00" type="hidden"></td>
+						
+						<td class="tdwhite" valign="center">Schwarz</td>
+						<td class="tdwhite" align="center" valign="center">25</td>
+												<td class="tdwhite" align="center" valign="center">
+						<table border="0" cellpadding="0" cellspacing="0">
+						
+						<tbody><tr>
+							<td valign="middle"><a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=1&amp;liefer=36&amp;sold=0" target="lieferbarkeit" onclick="lieferbarkeit=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=1&amp;liefer=36&amp;sold=0', 'lieferbarkeit', 'width=435,height=320,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); lieferbarkeit.focus(); return false;" rel="nofollow"><img src="/images/motorange.gif" alt="ab KW 36" border="0" height="19" width="22"></a></td>
+							<td class="tdwhite" valign="middle" width="17">&nbsp;36</td>
+						</tr>
+							
+						</tbody></table>
+												</td>
+												<td class="tdlightyellow" valign="center">
+													<b>29,95</b>
+						<input name="p#20597925v1" value="29.95" type="hidden">
+						</td>
+												<td class="tdyellow" align="center" valign="center">
+						<form style="display: inline;" action="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?STATARTNRGR=205979" method="post">
+
+						<input name="cart_context" value="add" type="hidden"><input name="topic" value="artnr_gr" type="hidden"><input name="article_context" value="detail" type="hidden"><input name="artnr_gr" value="205979" type="hidden"><input name="grwgr" value="195" type="hidden"><input name="wgr" value="801" type="hidden"><input name="anzeige" value="0" type="hidden"><input name="mottype" value="0" type="hidden"><input name="typ_id" value="" type="hidden"><input name="t#20597925v1" value="CYCLE SPIRIT TEXTILLATZ GR.25 SCHWARZ" type="hidden"><input name="g#20597925v1" value="801" type="hidden"><input name="m#20597925v1" value="19.00" type="hidden"><input name="p#20597925v1" value="29.95" type="hidden">							<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><input class="contenttext" name="_#20597925v1" maxlength="2" size="4" value="1" type="text"></td>
+								<td><input src="/images/button_inwarenkorb.gif" name="b#20597925v1" alt="In den Warenkorb" align="abscenter" border="0" height="20" type="image" width="42"></td>
+															</tr>
+							</tbody></table>
+
+													</form>
+						</td>
+
+
+					</tr>
+										<tr>
+						<td class="tdwhite" valign="top">20597926</td>
+												<td class="tdwhite" valign="top"><nobr>CYCLE SPIRIT TEXTILLATZ<br>GR.26 SCHWARZ</nobr><input name="t#20597926v2" value="CYCLE SPIRIT TEXTILLATZ GR.26 SCHWARZ" type="hidden"><input name="g#20597926v2" value="801" type="hidden"><input name="m#20597926v2" value="19.00" type="hidden"></td>
+						
+						<td class="tdwhite" valign="center">Schwarz</td>
+						<td class="tdwhite" align="center" valign="center">26</td>
+												<td class="tdwhite" align="center" valign="center">
+						<table border="0" cellpadding="0" cellspacing="0">
+						
+						<tbody><tr>
+							<td><a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=38&amp;sold=0" target="lieferbarkeit" onclick="lieferbarkeit=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=38&amp;sold=0', 'lieferbarkeit', 'width=435,height=320,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); lieferbarkeit.focus(); return false;" rel="nofollow"><img src="/images/motgruen.gif" alt="Sofort" border="0" height="19" width="22"></a></td>
+							<td class="tdwhite" valign="middle" width="17">&nbsp;</td>
+						</tr>
+							
+						</tbody></table>
+												</td>
+												<td class="tdlightyellow" valign="center">
+													<b>29,95</b>
+						<input name="p#20597926v2" value="29.95" type="hidden">
+						</td>
+												<td class="tdyellow" align="center" valign="center">
+						<form style="display: inline;" action="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?STATARTNRGR=205979" method="post">
+
+						<input name="cart_context" value="add" type="hidden"><input name="topic" value="artnr_gr" type="hidden"><input name="article_context" value="detail" type="hidden"><input name="artnr_gr" value="205979" type="hidden"><input name="grwgr" value="195" type="hidden"><input name="wgr" value="801" type="hidden"><input name="anzeige" value="0" type="hidden"><input name="mottype" value="0" type="hidden"><input name="typ_id" value="" type="hidden"><input name="t#20597926v2" value="CYCLE SPIRIT TEXTILLATZ GR.26 SCHWARZ" type="hidden"><input name="g#20597926v2" value="801" type="hidden"><input name="m#20597926v2" value="19.00" type="hidden"><input name="p#20597926v2" value="29.95" type="hidden">							<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><input class="contenttext" name="_#20597926v2" maxlength="2" size="4" value="1" type="text"></td>
+								<td><input src="/images/button_inwarenkorb.gif" name="b#20597926v2" alt="In den Warenkorb" align="abscenter" border="0" height="20" type="image" width="42"></td>
+															</tr>
+							</tbody></table>
+
+													</form>
+						</td>
+
+
+					</tr>
+										<tr>
+						<td class="tdwhite" valign="top">20597927</td>
+												<td class="tdwhite" valign="top"><nobr>CYCLE SPIRIT TEXTILLATZ<br>GR.27 SCHWARZ</nobr><input name="t#20597927v3" value="CYCLE SPIRIT TEXTILLATZ GR.27 SCHWARZ" type="hidden"><input name="g#20597927v3" value="801" type="hidden"><input name="m#20597927v3" value="19.00" type="hidden"></td>
+						
+						<td class="tdwhite" valign="center">Schwarz</td>
+						<td class="tdwhite" align="center" valign="center">27</td>
+												<td class="tdwhite" align="center" valign="center">
+						<table border="0" cellpadding="0" cellspacing="0">
+						
+						<tbody><tr>
+							<td valign="middle"><a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=1&amp;liefer=36&amp;sold=0" target="lieferbarkeit" onclick="lieferbarkeit=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=1&amp;liefer=36&amp;sold=0', 'lieferbarkeit', 'width=435,height=320,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); lieferbarkeit.focus(); return false;" rel="nofollow"><img src="/images/motorange.gif" alt="ab KW 36" border="0" height="19" width="22"></a></td>
+							<td class="tdwhite" valign="middle" width="17">&nbsp;36</td>
+						</tr>
+							
+						</tbody></table>
+												</td>
+												<td class="tdlightyellow" valign="center">
+													<b>29,95</b>
+						<input name="p#20597927v3" value="29.95" type="hidden">
+						</td>
+												<td class="tdyellow" align="center" valign="center">
+						<form style="display: inline;" action="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?STATARTNRGR=205979" method="post">
+
+						<input name="cart_context" value="add" type="hidden"><input name="topic" value="artnr_gr" type="hidden"><input name="article_context" value="detail" type="hidden"><input name="artnr_gr" value="205979" type="hidden"><input name="grwgr" value="195" type="hidden"><input name="wgr" value="801" type="hidden"><input name="anzeige" value="0" type="hidden"><input name="mottype" value="0" type="hidden"><input name="typ_id" value="" type="hidden"><input name="t#20597927v3" value="CYCLE SPIRIT TEXTILLATZ GR.27 SCHWARZ" type="hidden"><input name="g#20597927v3" value="801" type="hidden"><input name="m#20597927v3" value="19.00" type="hidden"><input name="p#20597927v3" value="29.95" type="hidden">							<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><input class="contenttext" name="_#20597927v3" maxlength="2" size="4" value="1" type="text"></td>
+								<td><input src="/images/button_inwarenkorb.gif" name="b#20597927v3" alt="In den Warenkorb" align="abscenter" border="0" height="20" type="image" width="42"></td>
+															</tr>
+							</tbody></table>
+
+													</form>
+						</td>
+
+
+					</tr>
+										<tr>
+						<td class="tdwhite" valign="top">20597928</td>
+												<td class="tdwhite" valign="top"><nobr>CYCLE SPIRIT TEXTILLATZ<br>GR.28 SCHWARZ</nobr><input name="t#20597928v4" value="CYCLE SPIRIT TEXTILLATZ GR.28 SCHWARZ" type="hidden"><input name="g#20597928v4" value="801" type="hidden"><input name="m#20597928v4" value="19.00" type="hidden"></td>
+						
+						<td class="tdwhite" valign="center">Schwarz</td>
+						<td class="tdwhite" align="center" valign="center">28</td>
+												<td class="tdwhite" align="center" valign="center">
+						<table border="0" cellpadding="0" cellspacing="0">
+						
+						<tbody><tr>
+							<td><a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=38&amp;sold=0" target="lieferbarkeit" onclick="lieferbarkeit=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=38&amp;sold=0', 'lieferbarkeit', 'width=435,height=320,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); lieferbarkeit.focus(); return false;" rel="nofollow"><img src="/images/motgruen.gif" alt="Sofort" border="0" height="19" width="22"></a></td>
+							<td class="tdwhite" valign="middle" width="17">&nbsp;</td>
+						</tr>
+							
+						</tbody></table>
+												</td>
+												<td class="tdlightyellow" valign="center">
+													<b>29,95</b>
+						<input name="p#20597928v4" value="29.95" type="hidden">
+						</td>
+												<td class="tdyellow" align="center" valign="center">
+						<form style="display: inline;" action="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?STATARTNRGR=205979" method="post">
+
+						<input name="cart_context" value="add" type="hidden"><input name="topic" value="artnr_gr" type="hidden"><input name="article_context" value="detail" type="hidden"><input name="artnr_gr" value="205979" type="hidden"><input name="grwgr" value="195" type="hidden"><input name="wgr" value="801" type="hidden"><input name="anzeige" value="0" type="hidden"><input name="mottype" value="0" type="hidden"><input name="typ_id" value="" type="hidden"><input name="t#20597928v4" value="CYCLE SPIRIT TEXTILLATZ GR.28 SCHWARZ" type="hidden"><input name="g#20597928v4" value="801" type="hidden"><input name="m#20597928v4" value="19.00" type="hidden"><input name="p#20597928v4" value="29.95" type="hidden">							<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><input class="contenttext" name="_#20597928v4" maxlength="2" size="4" value="1" type="text"></td>
+								<td><input src="/images/button_inwarenkorb.gif" name="b#20597928v4" alt="In den Warenkorb" align="abscenter" border="0" height="20" type="image" width="42"></td>
+															</tr>
+							</tbody></table>
+
+													</form>
+						</td>
+
+
+					</tr>
+										<tr>
+						<td class="tdwhite" valign="top">20597929</td>
+												<td class="tdwhite" valign="top"><nobr>CYCLE SPIRIT TEXTILLATZ<br>GR.29 SCHWARZ</nobr><input name="t#20597929v5" value="CYCLE SPIRIT TEXTILLATZ GR.29 SCHWARZ" type="hidden"><input name="g#20597929v5" value="801" type="hidden"><input name="m#20597929v5" value="19.00" type="hidden"></td>
+						
+						<td class="tdwhite" valign="center">Schwarz</td>
+						<td class="tdwhite" align="center" valign="center">29</td>
+												<td class="tdwhite" align="center" valign="center">
+						<table border="0" cellpadding="0" cellspacing="0">
+						
+						<tbody><tr>
+							<td><a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=42&amp;sold=0" target="lieferbarkeit" onclick="lieferbarkeit=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=42&amp;sold=0', 'lieferbarkeit', 'width=435,height=320,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); lieferbarkeit.focus(); return false;" rel="nofollow"><img src="/images/motgruen.gif" alt="Sofort" border="0" height="19" width="22"></a></td>
+							<td class="tdwhite" valign="middle" width="17">&nbsp;</td>
+						</tr>
+							
+						</tbody></table>
+												</td>
+												<td class="tdlightyellow" valign="center">
+													<b>29,95</b>
+						<input name="p#20597929v5" value="29.95" type="hidden">
+						</td>
+												<td class="tdyellow" align="center" valign="center">
+						<form style="display: inline;" action="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?STATARTNRGR=205979" method="post">
+
+						<input name="cart_context" value="add" type="hidden"><input name="topic" value="artnr_gr" type="hidden"><input name="article_context" value="detail" type="hidden"><input name="artnr_gr" value="205979" type="hidden"><input name="grwgr" value="195" type="hidden"><input name="wgr" value="801" type="hidden"><input name="anzeige" value="0" type="hidden"><input name="mottype" value="0" type="hidden"><input name="typ_id" value="" type="hidden"><input name="t#20597929v5" value="CYCLE SPIRIT TEXTILLATZ GR.29 SCHWARZ" type="hidden"><input name="g#20597929v5" value="801" type="hidden"><input name="m#20597929v5" value="19.00" type="hidden"><input name="p#20597929v5" value="29.95" type="hidden">							<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><input class="contenttext" name="_#20597929v5" maxlength="2" size="4" value="1" type="text"></td>
+								<td><input src="/images/button_inwarenkorb.gif" name="b#20597929v5" alt="In den Warenkorb" align="abscenter" border="0" height="20" type="image" width="42"></td>
+															</tr>
+							</tbody></table>
+
+													</form>
+						</td>
+
+
+					</tr>
+										<tr>
+						<td class="tdwhite" valign="top">20597930</td>
+												<td class="tdwhite" valign="top"><nobr>CYCLE SPIRIT TEXTILLATZ<br>GR.30 SCHWARZ</nobr><input name="t#20597930v6" value="CYCLE SPIRIT TEXTILLATZ GR.30 SCHWARZ" type="hidden"><input name="g#20597930v6" value="801" type="hidden"><input name="m#20597930v6" value="19.00" type="hidden"></td>
+						
+						<td class="tdwhite" valign="center">Schwarz</td>
+						<td class="tdwhite" align="center" valign="center">30</td>
+												<td class="tdwhite" align="center" valign="center">
+						<table border="0" cellpadding="0" cellspacing="0">
+						
+						<tbody><tr>
+							<td><a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=6&amp;sold=0" target="lieferbarkeit" onclick="lieferbarkeit=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=6&amp;sold=0', 'lieferbarkeit', 'width=435,height=320,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); lieferbarkeit.focus(); return false;" rel="nofollow"><img src="/images/motgruen.gif" alt="Sofort" border="0" height="19" width="22"></a></td>
+							<td class="tdwhite" valign="middle" width="17">&nbsp;</td>
+						</tr>
+							
+						</tbody></table>
+												</td>
+												<td class="tdlightyellow" valign="center">
+													<b>29,95</b>
+						<input name="p#20597930v6" value="29.95" type="hidden">
+						</td>
+												<td class="tdyellow" align="center" valign="center">
+						<form style="display: inline;" action="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?STATARTNRGR=205979" method="post">
+
+						<input name="cart_context" value="add" type="hidden"><input name="topic" value="artnr_gr" type="hidden"><input name="article_context" value="detail" type="hidden"><input name="artnr_gr" value="205979" type="hidden"><input name="grwgr" value="195" type="hidden"><input name="wgr" value="801" type="hidden"><input name="anzeige" value="0" type="hidden"><input name="mottype" value="0" type="hidden"><input name="typ_id" value="" type="hidden"><input name="t#20597930v6" value="CYCLE SPIRIT TEXTILLATZ GR.30 SCHWARZ" type="hidden"><input name="g#20597930v6" value="801" type="hidden"><input name="m#20597930v6" value="19.00" type="hidden"><input name="p#20597930v6" value="29.95" type="hidden">							<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><input class="contenttext" name="_#20597930v6" maxlength="2" size="4" value="1" type="text"></td>
+								<td><input src="/images/button_inwarenkorb.gif" name="b#20597930v6" alt="In den Warenkorb" align="abscenter" border="0" height="20" type="image" width="42"></td>
+															</tr>
+							</tbody></table>
+
+													</form>
+						</td>
+
+
+					</tr>
+										<tr>
+						<td class="tdwhite" valign="top">20597931</td>
+												<td class="tdwhite" valign="top"><nobr>CYCLE SPIRIT TEXTILLATZ<br>GR.31 SCHWARZ</nobr><input name="t#20597931v7" value="CYCLE SPIRIT TEXTILLATZ GR.31 SCHWARZ" type="hidden"><input name="g#20597931v7" value="801" type="hidden"><input name="m#20597931v7" value="19.00" type="hidden"></td>
+						
+						<td class="tdwhite" valign="center">Schwarz</td>
+						<td class="tdwhite" align="center" valign="center">31</td>
+												<td class="tdwhite" align="center" valign="center">
+						<table border="0" cellpadding="0" cellspacing="0">
+						
+						<tbody><tr>
+							<td><a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=42&amp;sold=0" target="lieferbarkeit" onclick="lieferbarkeit=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=42&amp;sold=0', 'lieferbarkeit', 'width=435,height=320,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); lieferbarkeit.focus(); return false;" rel="nofollow"><img src="/images/motgruen.gif" alt="Sofort" border="0" height="19" width="22"></a></td>
+							<td class="tdwhite" valign="middle" width="17">&nbsp;</td>
+						</tr>
+							
+						</tbody></table>
+												</td>
+												<td class="tdlightyellow" valign="center">
+													<b>29,95</b>
+						<input name="p#20597931v7" value="29.95" type="hidden">
+						</td>
+												<td class="tdyellow" align="center" valign="center">
+						<form style="display: inline;" action="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?STATARTNRGR=205979" method="post">
+
+						<input name="cart_context" value="add" type="hidden"><input name="topic" value="artnr_gr" type="hidden"><input name="article_context" value="detail" type="hidden"><input name="artnr_gr" value="205979" type="hidden"><input name="grwgr" value="195" type="hidden"><input name="wgr" value="801" type="hidden"><input name="anzeige" value="0" type="hidden"><input name="mottype" value="0" type="hidden"><input name="typ_id" value="" type="hidden"><input name="t#20597931v7" value="CYCLE SPIRIT TEXTILLATZ GR.31 SCHWARZ" type="hidden"><input name="g#20597931v7" value="801" type="hidden"><input name="m#20597931v7" value="19.00" type="hidden"><input name="p#20597931v7" value="29.95" type="hidden">							<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><input class="contenttext" name="_#20597931v7" maxlength="2" size="4" value="1" type="text"></td>
+								<td><input src="/images/button_inwarenkorb.gif" name="b#20597931v7" alt="In den Warenkorb" align="abscenter" border="0" height="20" type="image" width="42"></td>
+															</tr>
+							</tbody></table>
+
+													</form>
+						</td>
+
+
+					</tr>
+										<tr>
+						<td class="tdwhite" valign="top">20597932</td>
+												<td class="tdwhite" valign="top"><nobr>CYCLE SPIRIT TEXTILLATZ<br>GR.32 SCHWARZ</nobr><input name="t#20597932v8" value="CYCLE SPIRIT TEXTILLATZ GR.32 SCHWARZ" type="hidden"><input name="g#20597932v8" value="801" type="hidden"><input name="m#20597932v8" value="19.00" type="hidden"></td>
+						
+						<td class="tdwhite" valign="center">Schwarz</td>
+						<td class="tdwhite" align="center" valign="center">32</td>
+												<td class="tdwhite" align="center" valign="center">
+						<table border="0" cellpadding="0" cellspacing="0">
+						
+						<tbody><tr>
+							<td><a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=38&amp;sold=0" target="lieferbarkeit" onclick="lieferbarkeit=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/lieferbarkeit.php?akz=&amp;lieferkz=0&amp;liefer=38&amp;sold=0', 'lieferbarkeit', 'width=435,height=320,resizable=yes,scrollbars=no,menubar=no,toolbar=no,directories=no,location=no,status=no'); lieferbarkeit.focus(); return false;" rel="nofollow"><img src="/images/motgruen.gif" alt="Sofort" border="0" height="19" width="22"></a></td>
+							<td class="tdwhite" valign="middle" width="17">&nbsp;</td>
+						</tr>
+							
+						</tbody></table>
+												</td>
+												<td class="tdlightyellow" valign="center">
+													<b>29,95</b>
+						<input name="p#20597932v8" value="29.95" type="hidden">
+						</td>
+												<td class="tdyellow" align="center" valign="center">
+						<form style="display: inline;" action="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?STATARTNRGR=205979" method="post">
+
+						<input name="cart_context" value="add" type="hidden"><input name="topic" value="artnr_gr" type="hidden"><input name="article_context" value="detail" type="hidden"><input name="artnr_gr" value="205979" type="hidden"><input name="grwgr" value="195" type="hidden"><input name="wgr" value="801" type="hidden"><input name="anzeige" value="0" type="hidden"><input name="mottype" value="0" type="hidden"><input name="typ_id" value="" type="hidden"><input name="t#20597932v8" value="CYCLE SPIRIT TEXTILLATZ GR.32 SCHWARZ" type="hidden"><input name="g#20597932v8" value="801" type="hidden"><input name="m#20597932v8" value="19.00" type="hidden"><input name="p#20597932v8" value="29.95" type="hidden">							<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><input class="contenttext" name="_#20597932v8" maxlength="2" size="4" value="1" type="text"></td>
+								<td><input src="/images/button_inwarenkorb.gif" name="b#20597932v8" alt="In den Warenkorb" align="abscenter" border="0" height="20" type="image" width="42"></td>
+															</tr>
+							</tbody></table>
+
+													</form>
+						</td>
+
+
+					</tr>
+									</tbody></table>
+			</td>
+		</tr>
+				
+		</tbody></table>
+	</td>
+</tr>
+
+<tr>
+	<td height="20"></td>
+</tr>
+<tr>
+	<td>
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<!-- Links -->
+			<td align="left" bgcolor="#f4f4f4" valign="top">
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td colspan="3">
+					<table border="0" cellpadding="3" cellspacing="0">
+					<tbody><tr>
+						<td class="contentbold">Sonstiges</td>
+					</tr>
+					</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="3" background="/images/dashed_line.gif" height="1"></td>
+				</tr>
+				<tr>
+					<td colspan="3" height="10"></td>
+				</tr>
+				
+				<tr>
+					<td width="5"></td>
+										<td class="contenttext" valign="bottom" width="20"><a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/empfehlung.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG" target="_blank" onclick="empfehlung=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/empfehlung.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG', 'empfehlung', 'width=620,height=480,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no'); empfehlung.focus(); return false;" rel="nofollow"><img src="/images/icon_letter.gif" alt="Produkt empfehlen" border="0" height="13" width="17"></a></td>
+					<td class="contenttext" valign="bottom">&nbsp;<a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/empfehlung.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG" target="_blank" onclick="empfehlung=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/empfehlung.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG', 'empfehlung', 'width=620,height=480,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no'); empfehlung.focus(); return false;" rel="nofollow">Produkt empfehlen</a></td>
+				</tr>
+
+				<tr>
+					<td colspan="3" height="10"></td>
+				</tr>
+				<tr>
+					<td width="5"></td>
+										<td class="contenttext" valign="bottom" width="20"><a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/wunsch.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG" target="_blank" onclick="wunsch=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/wunsch.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG', 'wunsch', 'width=620,height=600,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no'); wunsch.focus(); return false;" rel="nofollow"><img src="/images/icon_gift.gif" alt="Produkt wünschen" border="0" height="16" width="18"></a></td>
+					<td class="contenttext" valign="bottom">&nbsp;<a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/wunsch.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG" target="_blank" onclick="wunsch=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/wunsch.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG', 'wunsch', 'width=620,height=600,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no'); wunsch.focus(); return false;" rel="nofollow">Ich wünsche mir dieses Produkt</a></td>
+				</tr>
+
+				<tr>
+					<td colspan="3" height="10"></td>
+				</tr>
+				<tr>
+					<td width="5"></td>
+										<td class="contenttext" valign="bottom"><a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/deeplink.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG" target="_blank" onclick="deeplink=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/deeplink.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG', 'deeplink', 'width=620,height=480,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no'); deeplink.focus(); return false;" rel="nofollow"><img src="/images/icon_link.gif" alt="Direkten Link auf diesen Artikel anzeigen" border="0" height="18" width="18"></a></td>
+					<td class="contenttext" valign="center">&nbsp;<a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/deeplink.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG" target="_blank" onclick="deeplink=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/deeplink.php?ARTNR_GR=205979&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;IMG=205979_240_05.JPG', 'deeplink', 'width=620,height=480,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no'); deeplink.focus(); return false;" rel="nofollow">Link auf dieses Produkt anzeigen</a></td>
+				</tr>
+
+				<tr>
+					<td colspan="3" height="10"></td>
+				</tr>
+				<tr>
+					<td width="5"></td>
+										<td class="contenttext" valign="bottom"><a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/kontakt/callback.php?ARTNR_GR=205979&amp;ARTNR=20597925&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;KAT=0027" target="_blank" onclick="callback=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/kontakt/callback.php?ARTNR_GR=205979&amp;ARTNR=20597925&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;KAT=0027', 'callback', 'width=620,height=480,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no'); callback.focus(); return false;" rel="nofollow"><img src="/images/icon_phone.gif" alt="Noch Fragen? Wir rufen Sie zurück" border="0" height="21" width="12"></a></td>
+					<td class="contenttext" valign="center">&nbsp;<a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/kontakt/callback.php?ARTNR_GR=205979&amp;ARTNR=20597925&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;KAT=0027" target="_blank" onclick="callback=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/kontakt/callback.php?ARTNR_GR=205979&amp;ARTNR=20597925&amp;BEZ=CYCLE+SPIRIT+TEXTILLATZ+&amp;KAT=0027', 'callback', 'width=620,height=480,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no'); callback.focus(); return false;" rel="nofollow">Noch Fragen? Wir rufen Sie zurück</a></td>
+				</tr>
+
+				<tr>
+					<td colspan="3" height="10"></td>
+				</tr>
+				</tbody></table>
+			</td>
+
+			
+			<!-- Katalogumfeld -->
+			<td width="15"></td>
+			<td bgcolor="#f4f4f4" valign="top">
+				<table bgcolor="f4f4f4" border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td colspan="2">
+					<table border="0" cellpadding="3" cellspacing="0">
+					<tbody><tr>
+						<td class="contentbold">Dieses Produkt im Katalog 2010</td>
+					</tr>
+					</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" background="/images/dashed_line.gif" height="1"></td>
+				</tr>
+				<tr>
+					<td colspan="2" height="10"></td>
+				</tr>
+
+				<tr>
+					<td width="5"></td>
+					<td class="contenttext">
+				
+					<table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+					
+						<td><img src="/shop/katalog/2010/img100/0026.jpg" alt="0" height="100" width="84"></td>
+						
+						<td><img src="/shop/katalog/2010/img100/0027.jpg" alt="1" height="100" width="84"></td>
+											</tr>
+					</tbody></table>
+										</td>
+				</tr>
+
+				<tr>
+					<td colspan="2" height="10"></td>
+				</tr>
+				<tr>
+				
+					<td width="5"></td>
+					<td class="contenttext">
+						»<a class="contentlink" href="/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=catalogcontext&amp;page=26">Alle Artikel auf dieser Katalogseite</a>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" height="10"></td>
+				</tr>
+
+				
+				<!-- Katalogseite als PDF -->
+				<tr>
+					<td colspan="2" height="5"></td>
+				</tr>
+				<tr>
+					<td width="5"></td>
+					<td class="contenttext">
+					<table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td valign="center"><a href="/shop/katalog/2010/pdf/0027.pdf" align="middle" class="contenttext" target="_blank" rel="nofollow"><img src="/images/icon_pdf.gif" border="0" height="16" width="16"></a></td>
+						<td class="contenttext" valign="center">&nbsp;<a href="/shop/katalog/2010/pdf/0027.pdf" class="contentlink" target="_blank" rel="nofollow">Katalogseite als PDF</a>, 615KB</td>
+					</tr>
+					</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" height="10"></td>
+				</tr>
+								</tbody></table>
+			</td>
+			
+		</tr>
+		<tr>
+			<td background="/images/dashed_line.gif" bgcolor="#f4f4f4" height="1"></td>
+			
+			<td></td>
+			<td background="/images/dashed_line.gif" bgcolor="#f4f4f4" height="1"></td>
+					</tr>
+		</tbody></table>
+	</td>
+</tr>
+
+
+<!-- Kontextartikel -->
+
+<tr>
+	<td height="20"></td>
+</tr>
+<tr>
+	<td>
+		<div class="contentbold" style="padding: 5px; margin-bottom: 15px; background-image: url(&quot;/images/dashed_line.gif&quot;); background-repeat: repeat-x; background-position: center bottom;">
+			Wir empfehlen zu diesem Produkt		</div>
+
+		
+		<div style="clear: both; float: left; margin-right: 15px; width: 255px; height: 95px; margin-bottom: 15px;">
+			<table border="0" cellpadding="0" cellspacing="0" width="250">
+			<tbody><tr>
+				<td rowspan="2" align="center" width="80">
+				<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artnr_gr&amp;artnr_gr=10038830&amp;anzeige=0&amp;ADTRACTIONSLOT=detail_kontext"><img src="http://www.louis.de/shop/img80/10038830_970_FR_06.JPG" alt="HEY TEX-WASH" border="0" height="80" width="28"></a>				</td>
+				<td rowspan="2" height="80" width="5"></td>
+				<td colspan="2" valign="top" width="170">
+					<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artnr_gr&amp;artnr_gr=10038830&amp;anzeige=0&amp;ADTRACTIONSLOT=detail_kontext" class="produktbez">HEY TEX-WASH</a><br>
+					<div class="produktkurztext">
+					Spezialwaschmittel für<br>Textilmaterialien mit<br>Membran.					</div>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" width="110">
+				<div class="produktpreis">ab € 7,95</div>				</td>
+				<td valign="bottom" width="50">
+									</td>
+			</tr>
+			</tbody></table>
+		</div>
+		
+	</td>
+</tr>
+
+<!-- Kunden, die dieses Produkt kauften... -->
+
+<tr>
+	<td height="20"></td>
+</tr>
+<tr>
+	<td>
+		<div class="contentbold" style="padding: 5px; margin-bottom: 15px; background-image: url(&quot;/images/dashed_line.gif&quot;); background-repeat: repeat-x; background-position: center bottom;">
+			Kunden, die dieses Produkt gekauft haben, kauften auch folgende Produkte		</div>
+
+		
+		<div style="clear: both; float: left; margin-right: 15px; width: 255px; height: 95px; margin-bottom: 15px;">
+			<table border="0" cellpadding="0" cellspacing="0" width="250">
+			<tbody><tr>
+				<td rowspan="2" align="center" width="80">
+				<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artnr_gr&amp;artnr_gr=205521&amp;anzeige=0&amp;ADTRACTIONSLOT=detail_xsord"><img src="http://www.louis.de/shop/img80/205523_240_FR_GEL_09.JPG" alt="CYCLE SP. 0406 TEXTILHOSE" border="0" height="80" width="41"></a>				</td>
+				<td rowspan="2" height="80" width="5"></td>
+				<td colspan="2" valign="top" width="170">
+					<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artnr_gr&amp;artnr_gr=205521&amp;anzeige=0&amp;ADTRACTIONSLOT=detail_xsord" class="produktbez">CYCLE SP. 0406 TEXTILHOSE</a><br>
+					<div class="produktkurztext">
+					tolle Ausstattung zum<br>super Preis -<br>Sondergrößen erhältlich					</div>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" width="110">
+				<div class="produktpreis">ab € 99,95</div>				</td>
+				<td valign="bottom" width="50">
+									</td>
+			</tr>
+			</tbody></table>
+		</div>
+		
+		<div style="float: left; margin-right: 15px; width: 255px; height: 95px; margin-bottom: 15px;">
+			<table border="0" cellpadding="0" cellspacing="0" width="250">
+			<tbody><tr>
+				<td rowspan="2" align="center" width="80">
+				<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artnr_gr&amp;artnr_gr=10004344&amp;anzeige=0&amp;ADTRACTIONSLOT=detail_xsord"><img src="http://www.louis.de/shop/img80/10004347_380_FR_10.JPG" alt="S100 IMPRAEGNIERSPRY FUER" border="0" height="80" width="23"></a>				</td>
+				<td rowspan="2" height="80" width="5"></td>
+				<td colspan="2" valign="top" width="170">
+					<a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=artnr_gr&amp;artnr_gr=10004344&amp;anzeige=0&amp;ADTRACTIONSLOT=detail_xsord" class="produktbez">S100 IMPRAEGNIERSPRY FUER</a><br>
+					<div class="produktkurztext">
+					Neue Formel<br>Empfohlen von Rukka<br>Für Textil und Leder!					</div>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" width="110">
+				<div class="produktpreis">ab € 10,95</div>				</td>
+				<td valign="bottom" width="50">
+					
+					<img src="/images/i18n/de/topimtest_liste.gif" height="25" width="47">
+									</td>
+			</tr>
+			</tbody></table>
+		</div>
+		
+	</td>
+</tr>
+
+<tr>
+	<td height="30"></td>
+</tr>
+<tr>
+	<td class="contentbold" align="left">
+		    <div class="linkbutton button_grgr">
+        <a href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/shop_article_print.php?artnr_gr=205979&amp;artnr=&amp;TECHNIK=0" onclick="Print=window.open('http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/shop/shop_article_print.php?artnr_gr=205979&amp;artnr=&amp;TECHNIK=0', 'Print', 'width=240,height=180,resizable=yes,scrollbars=yes,menubar=yes,toolbar=yes,directories=no,location=no,status=no'); Print.focus(); return false;">Drucken</a><img alt="" src="/images/button_grgr_end.gif">
+        </div>
+    	</td>
+</tr>
+<tr>
+	<td height="30"></td>
+</tr>
+
+			<tr><td height="10"></td></tr>
+			<tr>
+				<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="795">
+			<tbody><tr>
+				<td class="contenttext" valign="top" width="100">
+							»<a class="contentlink" href="#top" rel="nofollow">Nach oben</a>
+				
+				</td>
+				<td class="contenttext" align="center">
+			Alle genannten Preise sind unverbindlich empfohlene Verkaufspreise inkl. Umsatzsteuer,<br> zzgl. <a class="contentlink" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=versandkosten" rel="nofollow">Liefer- und Versandkostenpauschale</a> (z.Zt. 3,95 € in Deutschland)			</td>
+			</tr>
+			</tbody></table>
+				</td>
+			</tr>
+			<tr><td><table border="0" cellpadding="0" cellspacing="0" width="795"><tbody><tr><td><p class="footer" style="margin-top: 40px;" align="center">
+<a class="footer" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=kontakt" rel="nofollow">Kontakt</a>
+|
+<a class="footer" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=agb" rel="nofollow">AGB</a>
+|
+<a class="footer" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=versandkosten" rel="nofollow">Versandkosten</a>
+|
+<a class="footer" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=zahlung" rel="nofollow">Zahlungsarten</a>
+|
+<a class="footer" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=agb#datenschutz" rel="nofollow">Datenschutz</a>
+|
+<a class="footer" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=jobs">Jobs &amp; Ausbildung</a>
+|
+<a class="footer" href="http://www.louis.de/_4021dd1d2a6bbe853a8ad7aab71939d466/index.php?topic=impressum" rel="nofollow">Impressum</a>
+
+</p></td></tr></tbody></table></td></tr>
+</tbody></table></td></tr>
+			<tr><td height="10"></td></tr>
+		</tbody></table></td>	
+	</tr>
+	
+</tbody></table>
+	</td>
+</tr>
+</tbody></table>

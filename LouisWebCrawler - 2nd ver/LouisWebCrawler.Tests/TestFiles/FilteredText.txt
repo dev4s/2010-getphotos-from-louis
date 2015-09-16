@@ -1,0 +1,1 @@
+﻿przykładowy tekst, który znajduje się na początku <body></body>
